@@ -1,0 +1,10 @@
+.student{
+    background-color: aliceblue;
+}
+.announce{
+    border: 2px solid darkgoldenrod;
+    padding: 6px 12px;
+    margin: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+  
+  }

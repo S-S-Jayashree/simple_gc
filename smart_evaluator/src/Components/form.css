@@ -1,0 +1,53 @@
+.textarea {
+  /*
+    width: 50%;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;*/
+    background-color: lightgrey;
+    width: 50%;
+    border: 15px solid darkgray;
+    padding: 50px;
+    margin: 20px;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+
+  .submit_button {
+    background-color: darkgrey; 
+    color: black; 
+    border: 2px solid grey;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  .submit_button:hover {
+    background-color: gray;
+    color: white;
+  }  
+  
+  .send{
+    /*margin-left: 1200px;
+    margin-top: 10px;*/
+    cursor: pointer;
+  }
+  input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
